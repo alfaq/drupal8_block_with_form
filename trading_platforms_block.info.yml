@@ -1,0 +1,8 @@
+name: Trading platforms block
+description: 'Block for main page'
+type: module
+core: 8.x
+version: 1.0
+package: Custom
+dependencies:
+  - block
